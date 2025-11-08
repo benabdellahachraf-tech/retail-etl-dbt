@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: retail_dsy
+    database: intense-crow-473819-u4
+    schema: retail_dsy
+    tables:
+      - name: raw_invoice
+      - name: raw_country
